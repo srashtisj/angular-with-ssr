@@ -1,0 +1,13 @@
+<p>Welcome to TechVraksh!</p>
+
+<div class="card-container">
+
+  <div class="card" *ngFor="let item of team">
+    <img class="card-img-top" width=250 height="250" [src]="'./../../../assets/images/team/'+item.Image" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">{{item.Name}}</h5>
+      <p class="card-text">{{item.TechStack}}</p>
+      <a [routerLink]="'/profile/'+item.Id" class="btn btn-primary">Check Profile</a>
+    </div>
+  </div>
+</div>

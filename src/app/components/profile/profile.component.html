@@ -1,0 +1,29 @@
+<!-- Page Content -->
+<div class="container">
+
+  <!-- <pre>{{ movie | json }}</pre> -->
+  <button class="btn btn-primary" routerLink="/">Go Back</button>
+
+  <!-- Portfolio Item Heading -->
+  <h1 class="my-4">{{ profile.Name }}
+
+  </h1>
+
+  <!-- Portfolio Item Row -->
+  <div class="row">
+
+    <div class="col-md-8">
+
+      <img class="img-fluid" [src]="'./../../../assets/images/team/'+profile.Image" [alt]="profile.Name">
+    </div>
+
+    <div class="col-md-4">
+      <h3 class="my-3">About</h3>
+      <p>{{ profile.About }}</p>
+
+      <h3 class="my-3">TechStack</h3>
+      <p>{{ profile.TechStack }}</p>
+    </div>
+    <!-- /.row -->
+  </div>
+</div>
