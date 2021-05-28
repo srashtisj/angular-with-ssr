@@ -63,7 +63,7 @@ export class DataService {
           'Hello All, I am Isaiah. An aspiring software engineer from Lagos, Nigeria. Currently, interning @TechVraksh',
         TechStack:
           'HTML, CSS, Javascript, React.js, Node.js, MongoDB',
-        Image: ''
+        Image: 'Isaiah_Abiodun.png'
       },
       {
         Id: 7,
@@ -72,16 +72,7 @@ export class DataService {
           'Founder @OnlineGadchiroli | Full Stack Web Developer | Intern @TechVraksh',
         TechStack : 
           'Java, Materialize CSS, VueJS, PHP, MySQL, Codeigniter',
-        Image: ''
-      },
-      {
-        Id: 7,
-        Name : 'Ritesh P. Kurve',
-        About : 
-          'Founder @OnlineGadchiroli | Full Stack Web Developer | Intern @TechVraksh',
-        TechStack : 
-          'Java, Materialize CSS, VueJS, PHP, MySQL, Codeigniter',
-        Image: ''
+        Image: 'ritesh_kurve.jpg'
       },
       {
         Id: 8,
@@ -90,7 +81,7 @@ export class DataService {
           'I am a computer science student with a passion for web development. I aspire to become a full-stack web developer',
         TechStack :
           'HTML, CSS, JavaScript, Bootstrap, React',
-        Image: ''
+        Image: 'saketh-gollapudi.jpeg'
       },
       {
         Id: 9,
@@ -99,7 +90,7 @@ export class DataService {
           'Learning Full Stack Web Development | Intern @TechVraksh',
         TechStack : 
           'Full Stack Development | Python | C++ | C | Java | HTML | CSS',
-        Image:' '
+        Image:'default.png '
       },
       {
         Id: 10,
@@ -108,7 +99,7 @@ export class DataService {
           'CS Undergrad | Python developer | Opensource contributor | GSSoC 21 Participant | Assistant Organiser- AWS community | Competitive Programmer',
         TechStack : 
           'Python, C, Data structure and algorithm, HTML, Cloud Computing, CSS',
-        Image:'',
+        Image:'default.png',
       },
       {
         Id: 11,
@@ -117,7 +108,7 @@ export class DataService {
           'Sophomore | CSE Undergrad | Co-organizer- AWS Community | Chapter Lead- InfosecGirls Ranchi | Team Lead- DRISTI(NGO)',
         TechStack : 
           'C, Java, Python, HTML, DSA',
-        Image: ' ',
+        Image: 'Nidhi_Nivedita.jpg ',
       },
       {
         Id: 12,
@@ -126,11 +117,71 @@ export class DataService {
           'Nuclear Engineer, Comp-bio & Bioinformatics Software Development Enthusiast, Image Processing Fanatic',
         TechStack : 
           'Python | Javascript| C | Matlab | SQLite | Data Structure and Algorithm | Bioinformatics Algorithms',
-        Image: '',
-      }
-      
-      
-      
+        Image: 'Nur_A_Alam_Patwary.jpg',
+      },
+      {
+        Id: 13,
+        Name:' Kommineni Vamsi',
+        About:
+          'I studied my 10th class in Viswabharati High School, Gudivada(2017-2018),I completed my intermediate in Narayana Junior College, Vijayawada. My hobbies are playing chess, listening to songs, watching movies.',
+        TechStack:
+          ' Html | Css | JavaScript | ReactJs',
+        Image:' Kommineni_Vamsi.png ',
+      },
+      {
+        Id: 14,
+        Name:' Gutta Sumanth',
+        About:
+          'I am a computer science student with a passion for web development. I aspire to become a full-stack web developer',
+        TechStack:
+          ' Html | Css | JavaScript | Angular| Java | python | MySql',
+        Image:' Sumanth_Gutta.jpg ',
+      },
+      {
+        Id: 15,
+        Name:' Akshay V',
+        About:
+          'Passionate about Technology & Loves to Solve problems there by improving my skills Open Source Contributer,Tech Lover and Trying to Updating My Self Every Day',
+        TechStack:
+          ' Html | Css | JavaScript | Angular| Java | python | MySql',
+        Image:'default.png',
+       },
+      {
+        Id: 16,
+        Name:' Nirupama singh',
+        About:
+          'I was born and raised in delhi, completed my schooling here only. A part of me believes that my creative instincts define me. I like to write and paint apart from the whole tech part.',
+        TechStack:
+          ' Html | Css | JavaScript | Angular',
+        Image:'nirupama_singh.jpg',
+      },
+      {
+        Id: 17,
+        Name:'Sahil Agarwal',
+        About:
+          'Intern: TechVraksh',
+        TechStack:
+          ' Html | Css | JavaScript | Angular|ReactJs',
+        Image:'sahil_agrawal.jpg',
+      },
+      {
+        Id: 18,
+        Name:'Siddhant Sipoliya',
+        About:
+          'I have done my 10 and 12th from Orai, Uttar Pradesh. Currently in my final year of BE from Sai Vidya Institute Of Technology. I love playing Table Tennis ,watching Science/fiction movies. I am a friendly person.',
+        TechStack:
+          ' Html | Css | JavaScript | Angular|ReactJs|Mysql|Github',
+        Image:'Siddhant_Sipoliya.jpeg',
+      },
+      {
+        Id: 19,
+        Name:'Siddharth jain',
+        About:
+          'TechVraksh|Intern.',
+        TechStack:
+          ' Html | Css | JavaScript | Angular|ReactJs|Mysql|Github',
+        Image:'default.png',
+      },
     ];
   }
 
