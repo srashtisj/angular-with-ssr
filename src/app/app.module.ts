@@ -13,7 +13,7 @@ import { TeamComponent } from './components/team/team.component';
     TeamComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule.withServerTransition({ appId: 'serverApp' }),
     AppRoutingModule
   ],
   providers: [],
